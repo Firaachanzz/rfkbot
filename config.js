@@ -57,10 +57,10 @@ global.packname = 'By 𝑀𝑒𝑙𝑙 💫' // ganti aja
 global.author = 'xrzz' // ganti aja
 
 //yyy
-bc = 'AlyaaXd' //AlyaaXd Broadcast
-footer = '\n©AlyaaXd'
-namabot = 'AlyaaXd'
-namalu = 'AlyaaXd'
+bc = 'Xrzz' //AlyaaXd Broadcast
+footer = '\n©Xrzz'
+namabot = 'ツˣᴿᶻズガx'
+namalu = 'FirrZz'
 
 
 // 
