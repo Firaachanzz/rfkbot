@@ -14,7 +14,7 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
+global.linkGC = ['https://chat.whatsapp.com/CcB65Wwj0BP7xNO7XU6Rdd', ''] // ganti jadi group lu
 global.owner = ['6283830815715'] // Put your number here //owner eval
 global.kontak = ['6283830815715','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
@@ -46,9 +46,9 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
-kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXd'
-namakontak2 = 'AlyaaXd'
+kasihcaption = `Tuhh`
+namakontak1 = 'Mell'
+namakontak2 = '𝑀𝑒𝑙𝑙 💫'
 
 //kasihcaption = `Nih Kak`
 
@@ -57,7 +57,7 @@ global.packname = 'By 𝑀𝑒𝑙𝑙 💫' // ganti aja
 global.author = 'xrzz' // ganti aja
 
 //yyy
-bc = 'Xrzz' //AlyaaXd Broadcast
+bc = 'Xrzz' //𝑀𝑒𝑙𝑙 💫 Broadcast
 footer = '\n©Xrzz'
 namabot = 'ツˣᴿᶻズガx'
 namalu = 'FirrZz'
@@ -66,7 +66,7 @@ namalu = 'FirrZz'
 // 
 wait = '_*Tunggu Sebentar...*_'
 global.wait = '_*Tunggu Sebentar...*_'
-global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
+global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/CcB65Wwj0BP7xNO7XU6Rdd'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
 
