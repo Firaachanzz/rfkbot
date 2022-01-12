@@ -15,10 +15,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['6289505165400'] // Put your number here //owner eval
-global.kontak = ['6289505165400','0'] //Ketika ada yang ngetik #owner
+global.owner = ['6283830815715'] // Put your number here //owner eval
+global.kontak = ['6283830815715','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6289505165400'] // Premium user has unlimited limit
+global.prems = ['6283830815715'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -53,8 +53,8 @@ namakontak2 = 'AlyaaXd'
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AlyaaXd' // ganti aja
-global.author = 'AlyaaXd' // ganti aja
+global.packname = 'By 𝑀𝑒𝑙𝑙 💫' // ganti aja
+global.author = 'xrzz' // ganti aja
 
 //yyy
 bc = 'AlyaaXd' //AlyaaXd Broadcast
